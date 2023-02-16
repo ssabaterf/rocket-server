@@ -1,0 +1,11 @@
+{
+  "scriptId": "190",
+  "url": "file:///C:/Users/ssaba/Workspace/Rocket/deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 143, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

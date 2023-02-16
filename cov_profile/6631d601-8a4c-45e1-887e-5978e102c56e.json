@@ -1,0 +1,56 @@
+{
+  "scriptId": "192",
+  "url": "file:///C:/Users/ssaba/Workspace/Rocket/types/response.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3261, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 120, "endOffset": 309, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Reply",
+      "ranges": [{ "startOffset": 173, "endOffset": 307, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Unauthorized",
+      "ranges": [{ "startOffset": 823, "endOffset": 937, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Forbidden",
+      "ranges": [{ "startOffset": 1238, "endOffset": 1346, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "NotFound",
+      "ranges": [{ "startOffset": 1631, "endOffset": 1737, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "InternalServerError",
+      "ranges": [{ "startOffset": 2030, "endOffset": 2158, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BadRequest",
+      "ranges": [{ "startOffset": 2460, "endOffset": 2570, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OK",
+      "ranges": [{ "startOffset": 2766, "endOffset": 2856, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Created",
+      "ranges": [{ "startOffset": 3046, "endOffset": 3146, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

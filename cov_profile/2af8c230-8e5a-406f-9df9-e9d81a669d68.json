@@ -1,0 +1,21 @@
+{
+  "scriptId": "211",
+  "url": "https://deno.land/std@0.177.0/http/_negotiation/common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1633, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareSpecs",
+      "ranges": [{ "startOffset": 1448, "endOffset": 1573, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isQuality",
+      "ranges": [{ "startOffset": 1581, "endOffset": 1632, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

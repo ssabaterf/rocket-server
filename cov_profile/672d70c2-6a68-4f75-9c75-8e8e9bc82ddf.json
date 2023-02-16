@@ -1,0 +1,74 @@
+{
+  "scriptId": "189",
+  "url": "file:///C:/Users/ssaba/Workspace/Rocket/test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6391, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 350, "endOffset": 600, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 628, "endOffset": 853, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 886, "endOffset": 1121, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1157, "endOffset": 1398, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1432, "endOffset": 1669, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1704, "endOffset": 1943, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1981, "endOffset": 2226, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2267, "endOffset": 2526, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2573, "endOffset": 6388, "count": 1 },
+        { "startOffset": 5366, "endOffset": 6387, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "handler",
+      "ranges": [{ "startOffset": 2605, "endOffset": 2618, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRunning",
+      "ranges": [{ "startOffset": 2642, "endOffset": 2681, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "notFound",
+      "ranges": [{ "startOffset": 2704, "endOffset": 2801, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

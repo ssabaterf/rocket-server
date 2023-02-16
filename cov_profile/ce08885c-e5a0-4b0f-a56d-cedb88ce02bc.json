@@ -1,0 +1,68 @@
+{
+  "scriptId": "8",
+  "url": "internal:ext/console/02_console.js",
+  "functions": [
+    {
+      "functionName": "maybeColor",
+      "ranges": [
+        { "startOffset": 8849, "endOffset": 8944, "count": 12 },
+        { "startOffset": 8924, "endOffset": 8928, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8931, "endOffset": 8939, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_inspectValue",
+      "ranges": [
+        { "startOffset": 19792, "endOffset": 21578, "count": 2 },
+        { "startOffset": 19936, "endOffset": 19963, "count": 0 },
+        { "startOffset": 19965, "endOffset": 20029, "count": 0 },
+        { "startOffset": 20418, "endOffset": 20474, "count": 0 },
+        { "startOffset": 20594, "endOffset": 20600, "count": 0 },
+        { "startOffset": 20622, "endOffset": 20698, "count": 0 },
+        { "startOffset": 20705, "endOffset": 20779, "count": 0 },
+        { "startOffset": 20786, "endOffset": 20868, "count": 0 },
+        { "startOffset": 20875, "endOffset": 20947, "count": 0 },
+        { "startOffset": 20954, "endOffset": 21175, "count": 0 },
+        { "startOffset": 21182, "endOffset": 21478, "count": 0 },
+        { "startOffset": 21485, "endOffset": 21568, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "inspectValue",
+      "ranges": [{ "startOffset": 21582, "endOffset": 21828, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "inspectArgs",
+      "ranges": [
+        { "startOffset": 56380, "endOffset": 59683, "count": 6 },
+        { "startOffset": 56694, "endOffset": 59082, "count": 0 },
+        { "startOffset": 59136, "endOffset": 59168, "count": 0 },
+        { "startOffset": 59243, "endOffset": 59386, "count": 0 },
+        { "startOffset": 59435, "endOffset": 59659, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getConsoleInspectOptions",
+      "ranges": [{ "startOffset": 59805, "endOffset": 59936, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 60719, "endOffset": 60911, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "inspect",
+      "ranges": [{ "startOffset": 68202, "endOffset": 68391, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

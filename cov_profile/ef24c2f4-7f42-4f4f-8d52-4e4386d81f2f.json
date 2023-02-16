@@ -1,0 +1,143 @@
+{
+  "scriptId": "201",
+  "url": "https://deno.land/std@0.177.0/http/server.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 20047, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 604, "endOffset": 13190, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Server",
+      "ranges": [{ "startOffset": 1352, "endOffset": 1718, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Server.#onError",
+      "ranges": [{ "startOffset": 1547, "endOffset": 1711, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serve",
+      "ranges": [
+        { "startOffset": 2754, "endOffset": 3196, "count": 1 },
+        { "startOffset": 2804, "endOffset": 2876, "count": 0 },
+        { "startOffset": 2989, "endOffset": 3190, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listenAndServe",
+      "ranges": [
+        { "startOffset": 4157, "endOffset": 4499, "count": 1 },
+        { "startOffset": 4208, "endOffset": 4280, "count": 0 },
+        { "startOffset": 4349, "endOffset": 4361, "count": 0 },
+        { "startOffset": 4396, "endOffset": 4408, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listenAndServeTls",
+      "ranges": [{ "startOffset": 5752, "endOffset": 6161, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 6336, "endOffset": 6913, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get closed",
+      "ranges": [{ "startOffset": 6959, "endOffset": 7008, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get addrs",
+      "ranges": [{ "startOffset": 7082, "endOffset": 7176, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7143, "endOffset": 7168, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#respond",
+      "ranges": [{ "startOffset": 7353, "endOffset": 8408, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#serveHttp",
+      "ranges": [{ "startOffset": 8613, "endOffset": 9269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#accept",
+      "ranges": [
+        { "startOffset": 9410, "endOffset": 12046, "count": 1 },
+        { "startOffset": 9631, "endOffset": 12040, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#closeHttpConn",
+      "ranges": [{ "startOffset": 12162, "endOffset": 12364, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#trackListener",
+      "ranges": [{ "startOffset": 12478, "endOffset": 12551, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#untrackListener",
+      "ranges": [{ "startOffset": 12672, "endOffset": 12750, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#trackHttpConnection",
+      "ranges": [{ "startOffset": 12878, "endOffset": 12963, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#untrackHttpConnection",
+      "ranges": [{ "startOffset": 13098, "endOffset": 13188, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveListener",
+      "ranges": [{ "startOffset": 13956, "endOffset": 14244, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hostnameForDisplay",
+      "ranges": [{ "startOffset": 14245, "endOffset": 14555, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serve",
+      "ranges": [
+        { "startOffset": 16162, "endOffset": 16825, "count": 1 },
+        { "startOffset": 16236, "endOffset": 16243, "count": 0 },
+        { "startOffset": 16438, "endOffset": 16456, "count": 0 },
+        { "startOffset": 16705, "endOffset": 16803, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "options.signal.addEventListener.once",
+      "ranges": [{ "startOffset": 16466, "endOffset": 16484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveTls",
+      "ranges": [{ "startOffset": 18865, "endOffset": 20046, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

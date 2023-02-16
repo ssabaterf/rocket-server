@@ -1,0 +1,121 @@
+{
+  "scriptId": "191",
+  "url": "file:///C:/Users/ssaba/Workspace/Rocket/server/rocket.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9227, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 188, "endOffset": 7019, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Rocket",
+      "ranges": [{ "startOffset": 238, "endOffset": 253, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "register",
+      "ranges": [
+        { "startOffset": 894, "endOffset": 1614, "count": 1 },
+        { "startOffset": 977, "endOffset": 1592, "count": 6 },
+        { "startOffset": 1165, "endOffset": 1170, "count": 0 },
+        { "startOffset": 1209, "endOffset": 1214, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listen",
+      "ranges": [{ "startOffset": 1784, "endOffset": 2529, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "route",
+      "ranges": [
+        { "startOffset": 3553, "endOffset": 4201, "count": 8 },
+        { "startOffset": 3783, "endOffset": 3795, "count": 6 },
+        { "startOffset": 3797, "endOffset": 3899, "count": 6 },
+        { "startOffset": 3910, "endOffset": 4048, "count": 0 },
+        { "startOffset": 4048, "endOffset": 4127, "count": 2 },
+        { "startOffset": 4128, "endOffset": 4148, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "routeToHandler",
+      "ranges": [
+        { "startOffset": 4596, "endOffset": 5040, "count": 6 },
+        { "startOffset": 4812, "endOffset": 4870, "count": 0 },
+        { "startOffset": 4965, "endOffset": 5034, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "handleError",
+      "ranges": [{ "startOffset": 5045, "endOffset": 5139, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "platformToRest",
+      "ranges": [
+        { "startOffset": 5347, "endOffset": 5770, "count": 8 },
+        { "startOffset": 5562, "endOffset": 5615, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "restToPlatform",
+      "ranges": [
+        { "startOffset": 6059, "endOffset": 7017, "count": 6 },
+        { "startOffset": 6139, "endOffset": 6155, "count": 0 },
+        { "startOffset": 6156, "endOffset": 6186, "count": 0 },
+        { "startOffset": 6188, "endOffset": 6404, "count": 0 },
+        { "startOffset": 6498, "endOffset": 6507, "count": 0 },
+        { "startOffset": 6807, "endOffset": 6825, "count": 0 },
+        { "startOffset": 6963, "endOffset": 6982, "count": 1 },
+        { "startOffset": 6982, "endOffset": 6986, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 7144, "endOffset": 9226, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RouteNode",
+      "ranges": [{ "startOffset": 7190, "endOffset": 7271, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insert",
+      "ranges": [
+        { "startOffset": 7617, "endOffset": 8199, "count": 6 },
+        { "startOffset": 7724, "endOffset": 8081, "count": 15 },
+        { "startOffset": 7752, "endOffset": 7761, "count": 0 },
+        { "startOffset": 7814, "endOffset": 7829, "count": 3 },
+        { "startOffset": 7830, "endOffset": 7839, "count": 12 },
+        { "startOffset": 7924, "endOffset": 8038, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "search",
+      "ranges": [
+        { "startOffset": 8647, "endOffset": 9224, "count": 8 },
+        { "startOffset": 8800, "endOffset": 9130, "count": 28 },
+        { "startOffset": 8873, "endOffset": 8882, "count": 8 },
+        { "startOffset": 8882, "endOffset": 8966, "count": 20 },
+        { "startOffset": 8966, "endOffset": 9087, "count": 5 },
+        { "startOffset": 9061, "endOffset": 9073, "count": 1 },
+        { "startOffset": 9087, "endOffset": 9130, "count": 19 },
+        { "startOffset": 9130, "endOffset": 9210, "count": 7 },
+        { "startOffset": 9210, "endOffset": 9217, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

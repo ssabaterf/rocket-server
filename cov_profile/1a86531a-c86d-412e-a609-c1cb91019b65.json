@@ -1,0 +1,66 @@
+{
+  "scriptId": "189",
+  "url": "file:///C:/Users/ssaba/Workspace/Rocket/test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6037, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 350, "endOffset": 600, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 628, "endOffset": 853, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 886, "endOffset": 1121, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1157, "endOffset": 1398, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1432, "endOffset": 1669, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1704, "endOffset": 1943, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1981, "endOffset": 2226, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2267, "endOffset": 2526, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2566, "endOffset": 6034, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "handler",
+      "ranges": [{ "startOffset": 2598, "endOffset": 2611, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "notFound",
+      "ranges": [{ "startOffset": 2634, "endOffset": 2731, "count": 6 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

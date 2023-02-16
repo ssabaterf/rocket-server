@@ -1,0 +1,35 @@
+{
+  "scriptId": "32",
+  "url": "internal:ext/fetch/22_body.js",
+  "functions": [
+    {
+      "functionName": "InnerBody",
+      "ranges": [
+        { "startOffset": 2148, "endOffset": 2518, "count": 13 },
+        { "startOffset": 2304, "endOffset": 2358, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extractBody",
+      "ranges": [
+        { "startOffset": 10358, "endOffset": 12916, "count": 13 },
+        { "startOffset": 10690, "endOffset": 12280, "count": 0 },
+        { "startOffset": 12626, "endOffset": 12786, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "webidl.converters.BodyInit_DOMString",
+      "ranges": [
+        { "startOffset": 12962, "endOffset": 14365, "count": 13 },
+        { "startOffset": 13163, "endOffset": 13229, "count": 0 },
+        { "startOffset": 13287, "endOffset": 13343, "count": 0 },
+        { "startOffset": 13405, "endOffset": 13465, "count": 0 },
+        { "startOffset": 13534, "endOffset": 13601, "count": 0 },
+        { "startOffset": 13633, "endOffset": 14012, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

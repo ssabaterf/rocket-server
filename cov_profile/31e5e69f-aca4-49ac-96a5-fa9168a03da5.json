@@ -1,0 +1,59 @@
+{
+  "scriptId": "30",
+  "url": "internal:ext/fetch/20_headers.js",
+  "functions": [
+    {
+      "functionName": "normalizeHeaderValue",
+      "ranges": [{ "startOffset": 1455, "endOffset": 1543, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fillHeaders",
+      "ranges": [
+        { "startOffset": 1622, "endOffset": 2201, "count": 5 },
+        { "startOffset": 1692, "endOffset": 2004, "count": 0 },
+        { "startOffset": 2103, "endOffset": 2134, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "appendHeader",
+      "ranges": [
+        { "startOffset": 2499, "endOffset": 3269, "count": 5 },
+        { "startOffset": 2669, "endOffset": 2732, "count": 0 },
+        { "startOffset": 2790, "endOffset": 2854, "count": 0 },
+        { "startOffset": 2906, "endOffset": 2966, "count": 0 },
+        { "startOffset": 3106, "endOffset": 3220, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "has",
+      "ranges": [
+        { "startOffset": 9428, "endOffset": 10068, "count": 4 },
+        { "startOffset": 9741, "endOffset": 9808, "count": 0 },
+        { "startOffset": 10042, "endOffset": 10067, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "webidl.converters.HeadersInit",
+      "ranges": [
+        { "startOffset": 11944, "endOffset": 12490, "count": 5 },
+        { "startOffset": 12139, "endOffset": 12225, "count": 0 },
+        { "startOffset": 12306, "endOffset": 12489, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "headersFromHeaderList",
+      "ranges": [{ "startOffset": 12756, "endOffset": 12938, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "headerListFromHeaders",
+      "ranges": [{ "startOffset": 13003, "endOffset": 13081, "count": 20 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

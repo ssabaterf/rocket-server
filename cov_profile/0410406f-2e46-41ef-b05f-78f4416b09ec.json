@@ -1,0 +1,19 @@
+{
+  "scriptId": "17",
+  "url": "internal:ext/web/03_abort_signal.js",
+  "functions": [
+    {
+      "functionName": "AbortSignal",
+      "ranges": [
+        { "startOffset": 2706, "endOffset": 2992, "count": 8 },
+        { "startOffset": 2772, "endOffset": 2834, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "newSignal",
+      "ranges": [{ "startOffset": 4987, "endOffset": 5064, "count": 8 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

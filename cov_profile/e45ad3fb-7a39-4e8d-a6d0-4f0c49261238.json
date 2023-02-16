@@ -1,0 +1,109 @@
+{
+  "scriptId": "191",
+  "url": "file:///C:/Users/ssaba/Workspace/Rocket/server/rocket.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9838, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 188, "endOffset": 7630, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Rocket",
+      "ranges": [{ "startOffset": 238, "endOffset": 253, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "register",
+      "ranges": [
+        { "startOffset": 894, "endOffset": 1671, "count": 1 },
+        { "startOffset": 977, "endOffset": 1649, "count": 6 },
+        { "startOffset": 1242, "endOffset": 1247, "count": 0 },
+        { "startOffset": 1286, "endOffset": 1291, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listen",
+      "ranges": [{ "startOffset": 1841, "endOffset": 2579, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1881, "endOffset": 2359, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onListen",
+      "ranges": [{ "startOffset": 2419, "endOffset": 2561, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "route",
+      "ranges": [{ "startOffset": 3603, "endOffset": 4251, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "routeToHandler",
+      "ranges": [{ "startOffset": 4646, "endOffset": 5090, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleError",
+      "ranges": [{ "startOffset": 5095, "endOffset": 5189, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "platformToRest",
+      "ranges": [{ "startOffset": 5397, "endOffset": 5820, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "restToPlatform",
+      "ranges": [{ "startOffset": 6109, "endOffset": 7067, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertFromActionToMethod",
+      "ranges": [
+        { "startOffset": 7272, "endOffset": 7628, "count": 6 },
+        { "startOffset": 7344, "endOffset": 7386, "count": 0 },
+        { "startOffset": 7399, "endOffset": 7444, "count": 0 },
+        { "startOffset": 7457, "endOffset": 7501, "count": 0 },
+        { "startOffset": 7514, "endOffset": 7561, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 7755, "endOffset": 9837, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RouteNode",
+      "ranges": [{ "startOffset": 7801, "endOffset": 7882, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insert",
+      "ranges": [
+        { "startOffset": 8228, "endOffset": 8810, "count": 6 },
+        { "startOffset": 8335, "endOffset": 8692, "count": 15 },
+        { "startOffset": 8363, "endOffset": 8372, "count": 0 },
+        { "startOffset": 8425, "endOffset": 8440, "count": 3 },
+        { "startOffset": 8441, "endOffset": 8450, "count": 12 },
+        { "startOffset": 8535, "endOffset": 8649, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "search",
+      "ranges": [{ "startOffset": 9258, "endOffset": 9835, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
